@@ -1,0 +1,8 @@
+{
+  "name": "jest-runner-example",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:amilajack/jest-runner-example.git",
+  "author": "Amila Welihinda <amilaw@nvidia.com>",
+  "license": "MIT"
+}

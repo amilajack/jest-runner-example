@@ -13,5 +13,14 @@
     "dotenv": "^6.0.0",
     "jest": "^23.1.0",
     "nightwatch": "^0.9.21"
+  },
+  "jest": {
+    "runner": "jest-runner-nightwatch"
+ }, 
+ "jest-runner-nightwatch": {
+    "cliOptions": {
+      "config": "./nightwatch.config.js",
+      "env": "default"
+    }
   }
 }

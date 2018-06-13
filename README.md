@@ -1,7 +1,7 @@
 jest-webdriverio-example
 ===================
 
-A set of example tests using jest, nightwatch, and saucelabs
+A set of example tests using jest and saucelabs
 
 ## Setup
 ```bash

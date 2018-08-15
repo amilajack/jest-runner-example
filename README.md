@@ -1,6 +1,8 @@
 jest-webdriverio-example
 ===================
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/amilajack/jest-webdriverio-example.svg)](https://greenkeeper.io/)
+
 A set of example tests using jest and saucelabs
 
 ## Setup
